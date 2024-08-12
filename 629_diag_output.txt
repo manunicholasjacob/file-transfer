@@ -1,0 +1,15 @@
+Unpacking...
+Running fieldiag...
+GPU Devices Under Test: 0:18:00.0 0:3b:00.0 0:86:00.0 0:af:00.0
+
+Running NvLink Tests
+GPU 0: RUNNING	GPU 1: RUNNING	GPU 2: RUNNING	GPU 3: RUNNING	
+GPU 0:0 : The card under test does not match a valid Tesla product
+          configuration.
+
+Error Code = 000000000002 (software error )
+MODS end  : Tue Jul 23 09:19:51 2024  [15.900 seconds (00:00:15.900 h:m:s)]
+GPU 0: FAIL	GPU 1: FAIL	GPU 2: FAIL	GPU 3: FAIL	
+----------------------
+Fieldiag Testing Completed
+GPU 0: FAIL	GPU 1: FAIL	GPU 2: FAIL	GPU 3: FAIL	

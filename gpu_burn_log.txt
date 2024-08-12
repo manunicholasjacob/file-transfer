@@ -1,0 +1,4 @@
+GPU 0: Tesla V100-SXM2-16GB (UUID: GPU-2af167fa-82a8-499c-075b-b5a750786f5a)
+Unable to determine the device handle for gpu 0000:3B:00.0: Unknown Error
+GPU 2: Tesla V100-SXM2-16GB (UUID: GPU-4266b222-c5a0-87be-aa45-c4c7f0bc1365)
+GPU 3: Tesla V100-SXM2-16GB (UUID: GPU-af84753b-fc08-f86b-1c34-28793b0e1a89)
